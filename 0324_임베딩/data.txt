@@ -1,0 +1,11 @@
+apple banana fruit
+apple orange fruit
+banana orange fruit
+cat dog animal
+dog tiger animal
+cat tiger animal
+apple is sweet
+banana is yellow
+orange is juicy
+cat says meow
+dog says bark
